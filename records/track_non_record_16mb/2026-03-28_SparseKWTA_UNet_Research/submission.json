@@ -1,0 +1,11 @@
+{
+  "name": "Your Name",
+  "github_id": "your_github_id",
+  "val_bpb": 0.0,
+  "track": "track_non_record_16mb",
+  "date": "2026-03-28",
+  "summary": "Research: k-WTA sparse MLP activation, utilization-based pruning, structural specialization analysis in UNet GPT",
+  "hardware": "8xH100 SXM",
+  "training_time_minutes": 0.0,
+  "note": "Non-record unlimited compute submission. Primary goal: specialization analysis, not BPB."
+}
